@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=external_methods
+comment1.params=str
+comment1.target=double\ getPosInt(java.lang.String)
+comment1.text=\r\n\ getPosInt\ will\ keep\ the\ user\ from\ entering\ a\ negative\ integer.\r\n\ @param\:\ value\ <\ 0\r\n\ @return\:\ value\r\n
+comment2.params=n
+comment2.target=void\ display_dashes(int)
+comment2.text=\r\n\ ***********\ display_dashes\ (n)\ **************\r\n\ This\ method\ will\ display\ a\ specified\ number\ of\ dashes.\r\n\ \r\n\ @param\:\ n\ -\ The\ number\ of\ dashes\r\n\ @return\:\ void/nothing\ to\ return\r\n
+numComments=3

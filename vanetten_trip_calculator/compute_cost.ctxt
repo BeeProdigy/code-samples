@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=compute_cost
+comment1.params=x\ y
+comment1.target=double\ getGallons(double,\ double)
+comment1.text=\r\n\ @param\:\ y\ -\ miles,\ x\ -\ mpg\r\n\ @return\:\ number\ of\ gallons\ used\r\n
+comment2.params=x\ y\ z
+comment2.target=double\ getOneway(double,\ double,\ double)
+comment2.text=\r\n\ @param\:\ x\ -\ MPG,\ y\ -\ miles,\ z\ -\ costs\r\n\ @return\:\ costs\ it\ takes\ to\ make\ the\ trip\ one\ way\r\n
+comment3.params=x\ y\ z
+comment3.target=double\ getRoundtrip(double,\ double,\ double)
+comment3.text=\r\n\ @param\:\ x\ -\ MPG,\ y\ -\ miles,\ z\ -\ costs\r\n\ @return\:\ costs\ it\ takes\ to\ make\ it\ roundtrip\r\n
+numComments=4
