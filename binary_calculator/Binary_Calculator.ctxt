@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Binary_Calculator
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=java.lang.String\ deciToBin(int)
+comment2.text=\r\n\ Method\ for\ converting\ a\ decimal\ number\ to\ its\ binary\ equivalent\r\n\ @param\ x\ -\ decimal\ input\ by\ user\r\n\ @return\ bin\ -\ binary\ equivalent\ to\ decimal\ number\r\n
+comment3.params=x
+comment3.target=int\ binToDeci(java.lang.String)
+comment3.text=\r\n\ Method\ for\ converting\ a\ binary\ number\ to\ it's\ decimal\ equivalent\r\n\ @param\ x\ -\ binary\ input\ by\ user\r\n\ @return\ -\ num\ \=\ decimal\ equivalent\ to\ binary\ number\r\n
+comment4.params=x\ y
+comment4.target=java.lang.String\ addBin(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Method\ for\ adding\ binary\ numbers\r\n\ @param\ x\ &\ y\ -\ input\ by\ user\r\n\ @return\ addTotal\ -\ sum\ of\ the\ two\ binaries\r\n
+comment5.params=x\ y
+comment5.target=java.lang.String\ subBin(java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ Method\ for\ subracting\ binary\ numbers\r\n\ @para\ x\ &\ y\ -\ input\ by\ user\r\n\ @return\ subTotal\ -\ subtraction\ of\ the\ two\ binaries\r\n
+numComments=6

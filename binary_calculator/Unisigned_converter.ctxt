@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Unisigned_converter
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=java.lang.String\ deciToBin(int)
+comment2.text=\r\n\ @param\ -\ x\ \=\ \r\n\ @return\r\n
+comment3.params=x
+comment3.target=int\ binToDeci(java.lang.String)
+numComments=4

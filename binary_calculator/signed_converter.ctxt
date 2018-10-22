@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=signed_converter
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=java.lang.String\ deciToBin(int)
+comment2.text=\r\n\ Method\ for\ converting\ a\ decimal\ number\ to\ its\ binary\ equivalent\r\n\ @param\ x\ -\ decimal\ input\ by\ user\r\n\ @return\ bin\ -\ binary\ equivalent\ to\ decimal\ number\r\n
+comment3.params=x
+comment3.target=int\ binToDeci(java.lang.String)
+comment3.text=\r\n\ Method\ for\ converting\ a\ binary\ number\ to\ it's\ decimal\ equivalent\r\n\ @param\ x\ -\ binary\ input\ by\ user\r\n\ @return\ -\ num\ \=\ decimal\ equivalent\ to\ binary\ number\r\n
+numComments=4
