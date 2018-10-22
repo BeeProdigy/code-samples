@@ -1,0 +1,19 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	AGAIN                   3006
+//	CHAR                    3061
+//	CHECK                   3010
+//	CLRF                    305C
+//	COUNT                   307B
+//	LRG                     305B
+//	MAX                     3071
+//	MIN                     3075
+//	NUM                     305D
+//	NUMB1                   307C
+//	NUMB2                   307D
+//	PRMPT1                  301B
+//	PRMPT2                  3043
+//	REPS                    3060
+//	STRLAR                  3062
+//	SaveR1                  3079
+//	SaveR2                  307A

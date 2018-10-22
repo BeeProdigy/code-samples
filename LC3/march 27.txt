@@ -1,0 +1,29 @@
+ISA Instruction Set Architecture
+Register: R0, R1, ... R7 (16 bits each) GPRs
+Memory: 2^16 x 16  [64k x16]  x3000
+Instruction set: [15 disctinct opcodes]
+_________________
+4 bits -> Opcode ||
+----------------- 
+
+5 addressing mode::
+Register addressing
+Immediate addressing
+PC-Relative addressing (Direct addressing)
+Base + Offset addressing 
+Indirect addressing (Pointer)
+---Pointer:: A memory location which contains the address of another memory location. (Indirect reference)
+String s = new String ("ABC");
+	0   1   2
+s ---> 'A' 'B' 'C'
+
+box --> object
+
+NZP (flags)
+BRn labels
+
+Operate -> ADD, AND
+Data movement -> LD, ST
+
+7.7
+

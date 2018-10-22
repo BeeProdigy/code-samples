@@ -1,0 +1,74 @@
+;  This is a program to read in 	;  Kristal VanEtten
+;  a lowercase character and display	;  E01194732
+;  the corresponding uppercase		;  COSC 221 Winter 2018
+;  for first, middle and last initial
+	.ORIG	X3000
+
+;  get first initial
+
+	LEA	R0, PRMPT1	;  display first prompt
+	PUTS
+
+	GETC			;  read char
+	OUT
+	ST	R0, CHAR	;  safe keep char
+
+	LD	R0, CRLF	;  execute newline
+	OUT
+
+	LEA	R0, PRMPT2	;  display second prompt
+	PUTS
+
+	LD	R0, CHAR	;  reload char
+	LD	R1, NEG32	
+	ADD	R0, R0, R1
+	OUT			; display uppercase
+
+;  get middle initial
+
+	LEA	R0, PRMPT1	;  display first prompt
+	PUTS
+
+	GETC			;  read char
+	OUT
+	ST	R0, CHAR	;  safe keep char
+
+	LD	R0, CRLF	;  execute newline
+	OUT
+
+	LEA	R0, PRMPT2	;  display second prompt
+	PUTS
+
+	LD	R0, CHAR	;  reload char
+	LD	R1, NEG32	
+	ADD	R0, R0, R1
+	OUT			; display uppercase
+
+;  last initial
+
+	LEA	R0, PRMPT1	;  display first prompt
+	PUTS
+
+	GETC			;  read char
+	OUT
+	ST	R0, CHAR	;  safe keep char
+
+	LD	R0, CRLF	;  execute newline
+	OUT
+
+	LEA	R0, PRMPT2	;  display second prompt
+	PUTS
+
+	LD	R0, CHAR	;  reload char
+	LD	R1, NEG32	
+	ADD	R0, R0, R1
+	OUT			; display uppercase
+
+	HALT
+;******** Date area ***************
+PRMPT1	.STRINGZ	"Type a lowercase char> "
+PRMPT2	.STRINGZ	"The uppercase is> "
+CHAR	.BLKW		1
+NEG32	.FILL		#-32
+CRLF	.FILL		#10
+	.END
