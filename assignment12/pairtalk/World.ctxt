@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=World
+comment1.params=
+comment1.target=int\ getGridSize()
+comment10.params=
+comment10.target=int\ countDoodlebug()
+comment10.text=\r\n\ The\ following\ constructor\ is\ to\ to\ count\ the\ number\ of\ doodlebugs\r\n\ Then,\ in\ the\ onStepSimulation,\ as\ the\ loop\ goes\ through\ and\ moves\ all\ the\ doodlebugs\r\n\ It\ will\ count\ each\ one\ it\ moves\ (or\ tries\ to\ move)\r\n\ So,\ once\ the\ number\ of\ doodlebugs\ it's\ moved\ \=\=\ the\ number\ of\ doodlebugs\ in\ the\ world\ it'll\ go\ back\ through\ and\ move\ all\ the\ ants\r\n
+comment11.params=
+comment11.target=void\ oneStepSimulation()
+comment12.params=x\ y
+comment12.target=boolean\ OutOfBound(int,\ int)
+comment2.params=i\ j
+comment2.target=Critter\ getCell(int,\ int)
+comment3.params=x\ y\ c
+comment3.target=void\ setCell(int,\ int,\ Critter)
+comment4.params=gridsize
+comment4.target=World(int)
+comment5.params=
+comment5.target=void\ Display()
+comment6.params=antNumber\ doodlebugNumber
+comment6.target=void\ AssignCritters(int,\ int)
+comment7.params=xcood\ ycood
+comment7.target=boolean\ isCellAnt(int,\ int)
+comment8.params=critterNumber\ critterType
+comment8.target=void\ AssignCritters_inner(int,\ java.lang.String)
+comment9.params=argv
+comment9.target=void\ main(java.lang.String[])
+numComments=13

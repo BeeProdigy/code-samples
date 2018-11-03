@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Doodlebug
+comment1.params=world\ rowIndex\ columnIndex
+comment1.target=Doodlebug(World,\ int,\ int)
+comment2.params=
+comment2.target=void\ move()
+comment2.text=public\ boolean\ hasAntNeighbor(){\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ if\ (myWorld.getCell(x+1,\ y).getClass()\ \=\=\ Ant.class){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ return\ true;\r\n\ \ \ \ \ \ \ \ \ \ \ }else\ if\ (myWorld.getCell(x-1,\ y).getClass()\ \=\=\ Ant.class){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ return\ true;\r\n\ \ \ \ \ \ \ \ \ \ \ }else\ if\ (myWorld.getCell(x,\ y+1).getClass()\ \=\=\ Ant.class){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ return\ true;\r\n\ \ \ \ \ \ \ \ \ \ \ }else\ if\ (myWorld.getCell(x,\ y+1).getClass()\ \=\=\ Ant.class){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ return\ true;\r\n\ \ \ \ \ \ \ \ \ \ \ }else{\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ return\ false;\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n}
+comment3.params=
+comment3.target=void\ display()
+numComments=4
