@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=World
+comment1.params=gridsize
+comment1.target=World(int)
+comment2.params=antNumber\ doodlebugNumber
+comment2.target=void\ AssignCritters(int,\ int)
+comment3.params=
+comment3.target=void\ Display()
+numComments=4

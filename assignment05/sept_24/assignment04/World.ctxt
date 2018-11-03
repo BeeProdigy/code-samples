@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=World
+comment1.params=
+comment1.target=int\ getGridSize()
+comment2.params=i\ j
+comment2.target=Critter\ getCell(int,\ int)
+comment3.params=x\ y\ c
+comment3.target=void\ setCell(int,\ int,\ Critter)
+comment4.params=gridsize
+comment4.target=World(int)
+comment5.params=
+comment5.target=void\ Display()
+comment6.params=antNumber\ doodlebugNumber
+comment6.target=void\ AssignCritters(int,\ int)
+comment7.params=argv
+comment7.target=void\ main(java.lang.String[])
+comment8.params=
+comment8.target=void\ oneStepSimulation()
+numComments=9

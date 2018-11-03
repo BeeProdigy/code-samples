@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=fName\ lName\ studentId\ in_course\ in_teacherName
+comment1.target=Student(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=argv
+comment2.target=void\ main(java.lang.String[])
+numComments=3

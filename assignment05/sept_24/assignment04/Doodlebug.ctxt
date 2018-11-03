@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Doodlebug
+comment1.params=world\ rowIndex\ columnIndex
+comment1.target=Doodlebug(World,\ int,\ int)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=void\ display()
+numComments=4

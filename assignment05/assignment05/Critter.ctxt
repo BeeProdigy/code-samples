@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Critter
+comment1.params=
+comment1.target=void\ move()
+comment2.params=world\ rowIndex\ columnIndex
+comment2.target=Critter(World,\ int,\ int)
+comment3.params=
+comment3.target=void\ display()
+numComments=4
