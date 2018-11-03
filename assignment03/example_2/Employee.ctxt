@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Employee
+comment1.params=
+comment1.target=Employee()
+comment10.params=
+comment10.target=long\ calculateDuration()
+comment2.params=theName\ theDate
+comment2.target=Employee(java.lang.String,\ java.util.Date)
+comment2.text=\r\n\ \ \ \ \ Precondition\:\ Neither\ theName\ nor\ theDate\ is\ null.\r\n
+comment3.params=originalObject
+comment3.target=Employee(Employee)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.util.Date\ getHireDate()
+comment6.params=newName
+comment6.target=void\ setName(java.lang.String)
+comment6.text=\r\n\ \ \ \ \ Precondition\ newName\ is\ not\ null.\r\n
+comment7.params=newDate
+comment7.target=void\ setHireDate(java.util.Date)
+comment7.text=\r\n\ \ \ \ \ Precondition\ newDate\ is\ not\ null.\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=otherEmployee
+comment9.target=boolean\ equals(Employee)
+numComments=11

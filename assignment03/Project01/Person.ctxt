@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Person\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Person()
+comment2.params=initialfName\ initiallName
+comment2.target=Person(java.lang.String,\ java.lang.String)
+comment3.params=newfName\ newlName
+comment3.target=void\ setName(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getfName()
+comment5.params=
+comment5.target=java.lang.String\ getlName()
+comment6.params=
+comment6.target=void\ displayDetails()
+numComments=7
